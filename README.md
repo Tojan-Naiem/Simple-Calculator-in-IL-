@@ -10,7 +10,6 @@ This project contains an IL (Intermediate Language) code for a simple calculator
 
 2.Navigate to the project directory:
 cd your-repo-name
-
 3.Convert the .il file to .exe using ilasm:
 
 ilasm Calculator.il /exe
